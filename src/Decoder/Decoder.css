@@ -1,0 +1,16 @@
+dt {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.decode-succeed {
+  color: rgb(88, 199, 88);
+}
+
+.decode-failed {
+  color: rgb(223, 65, 65);
+}
+
+dd {
+  color: rgb(213, 213, 55);
+}

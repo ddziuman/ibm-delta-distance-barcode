@@ -1,0 +1,5 @@
+fieldset {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 1280px;
+}

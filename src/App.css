@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.generated-image {
+  margin: 20px 0px;
+}
+
+.encoding-input {
+  font-size: 24px;
+  padding: 1rem;
+}
+
+.supported-symbols {
+  color: rgb(88, 199, 88);
+}
+
+.generated-image {
+}
+
+svg {
+  stroke: transparent;
+  stroke-width: 0px;
+}
+
+fieldset {
+  border: none;
+  margin: 0 auto;
+}
